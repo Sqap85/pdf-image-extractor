@@ -4,8 +4,6 @@ Modern ve kullanıcı dostu bir web arayüzü ile PDF dosyalarından görselleri
 
 ## Özellikler
 
-- 🎨 Modern ve şık kullanıcı arayüzü
-- 📄 Tüm PDF formatları desteklenir
 - 🖼️ Tüm görselleri otomatik ayıklar
 - 📦 ZIP dosyası olarak indirebilme
 - 👁️ İlk 20 görselin önizlemesi
@@ -34,6 +32,3 @@ Tarayıcınızda otomatik olarak açılacaktır (varsayılan: http://127.0.0.1:7
 - Gradio
 - Pillow
 
-## Lisans
-
-MIT
