@@ -2,6 +2,14 @@
 
 Modern ve kullanıcı dostu bir web arayüzü ile PDF dosyalarından görselleri ayıklayın.
 
+## Ekran Görüntüleri
+
+### Ana Sayfa
+![PDF Yükleme Ekranı](images/screenshot1.png)
+
+### Görsel Ayıklama Sonuçları
+![Ayıklanan Görseller](images/screenshot2.png)
+
 ## Özellikler
 
 - 🖼️ Tüm görselleri otomatik ayıklar
